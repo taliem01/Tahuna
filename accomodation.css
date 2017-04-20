@@ -1,0 +1,115 @@
+.contentHeader{
+  background-color: white;
+  margin-top: 0.5px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.contentHeader h2{
+  font-size: 25px;
+  padding-left: 2%;
+  color: #CF5C3F;
+
+}
+
+.headercontent{
+  line-height: 25px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-radius: 5px;
+  overflow: hidden;
+  background-color: white;
+  margin: 1% ;
+}
+
+.headercontent h1{
+  font-size: 25px;
+  padding-left: 2%;
+  color: #CF5C3F;
+  margin: 2%;
+}
+
+.slider{
+  width: 80%;
+  height: 50%;
+  margin: 3% 10%;
+  border-style:solid;
+
+}
+
+.slider img{
+  width: 50%;
+  height: 50%;
+}
+
+.headercontent h2{
+  font-size: 20px;
+  padding-left: 2%;
+  color: #CF5C3F;
+  margin: 2%;
+  text-align: center;
+}
+
+.headercontent p{
+  margin: 2% 2%;
+  text-align: justify;
+  text-align: center;
+}
+
+.contentwrapper{
+  width: 95%;
+  margin: 0 auto;
+
+}
+
+.leftcontent{
+  width: 30%;
+  float: left;
+  margin: 1% ;
+  margin-left: 2.5%;
+
+}
+
+.middlecontent{
+  width: 30%;
+  float: left;
+  margin: 1% ;
+  margin-left: 2%;
+
+}
+
+.rightcontent{
+  width: 30%;
+  float: left;
+  margin: 1%;
+  margin-right: 2%;
+
+}
+
+.leftcontent img{
+  width: 200px;
+  height: 200px;
+  margin: 0% 19%;
+}
+
+.middlecontent img{
+  width: 200px;
+  height: 200px;
+  margin: 0% 19%;
+}
+.rightcontent img{
+  width: 200px;
+  height: 200px;
+  margin: 0% 19%;
+}
+
+.contentwrapper h1{
+  text-align: center;
+  margin: 5%;
+}
+
+.contentwrapper p{
+  text-align: justify;
+}

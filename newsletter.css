@@ -1,0 +1,74 @@
+body{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.wrapper{
+  background-color: blue;
+}
+
+
+.form1{
+  background-color: white;
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.form1 table{
+  margin-left: 24%;
+  padding-top: 5%;
+  width: 50%;
+  height: 100%;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  background-color:
+
+}
+
+.form1 tbody{
+  border-style: solid;
+}
+
+#submit{
+  margin-top: 10%;
+  margin-left: 100%;
+  padding: 5% 5%;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: aclonica;
+	font-style: normal;
+	font-weight: 400;
+}
+h1 {
+	color: #E70000;
+	font-size: 24px;
+}
+body,td,th {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.frame{
+  background-color: white;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 10px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.frame iframe{
+  width: 100%;
+  align: center;
+  margin-top: 10%;
+  margin-left: 15%;
+  border-style: none;
+}
